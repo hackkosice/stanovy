@@ -1,5 +1,7 @@
-Stanovy občianskeho združenia podľa zákona č. 83/1990 Zb. o združovaní
-občanov v znení neskorších predpisov.
+---
+title: Stanovy Hack Kosice
+subtitle: Stanovy občianskeho združenia podľa zákona č. 83/1990 Zb. o združovaní občanov v znení neskorších predpisov.
+...
 
 Základné ustanovenia
 ====================
@@ -74,14 +76,11 @@ Vznik a zánik členstva
 
 2.  O prijatí člena do združenia rozhoduje rada na základe prihlášky
     záujemca. Prihláška obsahuje jeho kontaktné údaje a krátke
-    odôvodnenie prihlášky vo forme motivačného listu. Na prijatie do
-    združenia nie je právny nárok.
-
-3.  Rada združenia môže na návrh jedného z jej členov, alebo iného
-    riadneho člena združenia, rozhodnúť o pozastavení členstva riadneho
-    člena v združení. Rada tak rozhodne najmä však v prípade, ak člen
-    združenia porušil menej závažným spôsobom stanovy združenia alebo
-    iné interné predpisy združenia.
+    odôvodnenie prihlášky vo forme motivačného listu. Za prihlášku sa považuje
+     aj odoslanie faxom alebo prostredníctvom elektronickej pošty na spoločnú adresu zakladateľov.
+    Na prijatie do združenia nie je právny nárok.
+    
+3.  [TODO: ako/kde sa zaznamenava/potvrdi clenstvo v OZ]
 
 Zánik členstva v občianskom združení
 ------------------------------------
@@ -97,8 +96,7 @@ Zánik členstva v občianskom združení
         predsedovi rady),
 
     4.  vylúčením člena združenia (na základe rozhodnutia rady) v
-        prípade, že člen opakovane, aj napriek písomnému upozorneniu,
-        porušuje stanovy združenia alebo iné vnútorné predpisy
+        prípade, že člen porušuje stanovy združenia alebo iné vnútorné predpisy
         združenia, alebo iným spôsobom škodí činnosti združenia; návrh
         na vylúčenie predkladá ktorýkoľvek člen združenia.
 
@@ -114,7 +112,7 @@ Práva a povinnosti členov
     2.  riadny člen
 
 2.  Zakladateľ má všetky práva a povinnosti riadneho člena. Ak sa v
-    týchto stanovách spomína riadny člen, myslí sa tým aj zakladateľ.
+    týchto stanovách spomína riadny člen, myslí sa tým aj zakladateľ. 
 
 3.  Riadny člen má právo:
 
@@ -140,22 +138,7 @@ Práva a povinnosti členov
 
     3.  aktívne hájiť záujmy združenia,
 
-    4.  platiť členské poplatky, pričom členský poplatok sa považuje za
-        uhradený dňom jeho pripísania na účet združenia,
-
-    5.  zdržať sa úkonov, ktoré by boli v rozpore so záujmami združenia.
-
-5.  V prípade, ak má riadny člen združenia pozastavené členstvo v
-    združení na základe rozhodnutia rady podľa čl. 3 ods. 5 týchto
-    stanov, nie je oprávnený vykonávať práva člena podľa týchto stanov.
-
-6.  V prípade prijatia rozhodnutia podľa čl. 7 ods. 3 písmeno k) budú
-    riadnym členom združenia sprístupňované a/alebo poskytované služby v
-    rozsahu stanovenom vnútorným predpisom združenia, alebo rozhodnutím
-    rady, pre jednotlivé podkategórie riadnych členov zruženia.
-    Zaradením riadneho člena do podkategórií v zmysle predchádzajúcej
-    vety tohto bodu, nie sú dotknuté práva práva riadneho člena uvedené
-    v bode 3. písmeno a) až d) tohto článku.
+    4.  zdržať sa úkonov, ktoré by boli v rozpore so záujmami združenia.
 
 Orgány občianskeho združenia
 ============================
@@ -163,14 +146,18 @@ Orgány občianskeho združenia
 1.  Orgánmi občianskeho združenia sú:
 
     1.  Valné zhromaždenie
+    
+    2.  Zakladatelia
 
-    2.  Výkonný riaditeľ
+    3.  Výkonný riaditeľ
+    
+    4.  Revízor
 
 Valné zhromaždenie
 ==================
 
 1.  Valné zhromaždenie je najvyšším orgánom združenia a je tvorené
-    všetkými riadnymi členmi združenia s hlasovacím právom. Zasadnutie
+    všetkými riadnymi členmi združenia. Zasadnutie
     valného zhromaždenia sa koná podľa potreby, najmenej však raz ročne.
 
 2.  Valné zhromaždenie:
@@ -219,7 +206,7 @@ Valné zhromaždenie
     emailovú adresu oznámenú výkonnému riaditeľovi.
 
 7.  Uznesenia valného zhromaždenia musia byť zapísané v zápisnici a
-    podpísané výkonným riaditeľom a zapisovateľom. Výkonný riaditeľ
+    podpísané výkonným riaditeľom. Výkonný riaditeľ
     zabezpečí vyhotovenie zápisnice najneskôr do 30 dní od konania
     zasadnutia valného zhromaždenia.
 
@@ -243,43 +230,44 @@ Valné zhromaždenie
     lehoty na vyjadrenie. Na prijatie platného per rollam
     uznesenia/rozhodnutia valného zhromaždenia je potrebná nadpolovičná
     väčšina hlasov všetkých riadnych členov združenia, vrátane hlasov
-    štyroch zakladateľov.
+    dvoch zakladateľov.
 
 9.  Výkonný riaditeľ zvolá mimoriadne valné zhromaždenie vždy, ak ho o
-    to požiadajú aspoň štyria zakladatelia. V prípade, ak výkonný
+    to požiadajú aspoň dvaja zakladatelia. V prípade, ak výkonný
     riaditeľ nie je zvolený, alebo mu uplynulo funkčné obdobie,
     zastupuje ho pri výkone zvolania a vedenia valného zhromaždenia
     predseda rady, alebo jeden zo zakladateľov, ktorý bol poverený aspoň
-    štyrmi zakladateľmi.
+    dvomi zakladateľmi.
 
-Rada
-====
+Zakladatelia
+============
 
-1.  Rada pozostáva zo zástupcov šiestich riadnych členov združenia
-    (predseda rady a členovia rady) zvolených valným zhromaždením po
-    predchádzajúcom návrhu aspoň štyroch zakladateľov. Členovia rady
-    volia spomedzi seba predsedu rady a dvoch podpredsedov rady.
-    Predseda rady je oprávnený konať v mene združenia navonok samostatne
+1.  Občianske združenie má šiestich zakladateľov, ktorí sú zároveň
+    členovia prípravného výboru, ktorými sú:
+
+    1.  
+    
+    Prvý zo zakladateľov je hlavný zakladateľ a je oprávnený konať v mene združenia navonok samostatne
     a vykonáva pôsobnosť štatutárneho orgánu vo vzťahu k tretím osobám.
 
-2.  Na prijatie platného rozhodnutia rady je potrebná nadpolovičná
-    väčšina hlasov všetkých členov rady. Rada môže prijímať rozhodnutia
+2.  Na prijatie platného rozhodnutia zakladateľov sú potrebné aspoň dva
+    hlasy zakladateľov (nadpolovičná väčšina). Zakladatelia môžu prijímať rozhodnutia
     aj mimo zasadnutia rady na základe per rollam rozhodnutia. Návrh
-    rozhodnutia môže písomne predložiť ktorýkoľvek člen rady na
+    rozhodnutia môže písomne predložiť ktorýkoľvek riadny člen na
     vyjadrenie súhlasu/nesúhlasu, spolu s oznámením lehoty na písomné
-    vyjadrenie, v ktorej ho členovia rady zasielajú na adresu predsedu
-    rady. Lehota na vyjadrenie nesmie byť kratšia ako 7 dní odo dňa
+    vyjadrenie, v ktorej ho riadni členovia zasielajú na spoločnú adresu 
+    zakladateľov. Lehota na vyjadrenie nesmie byť kratšia ako 7 dní odo dňa
     odoslania návrhu rozhodnutia na vyjadrenie. Za písomné predloženie
     návrhu rozhodnutia na vyjadrenie sa považuje aj odoslanie návrhu
     rozhodnutia faxom alebo prostredníctvom elektronickej pošty na
-    poslednú známu adresu členov rady. Za včasné doručenie vyjadrenia sa
+    poslednú známu adresu zakladateľov. Za včasné doručenie vyjadrenia sa
     považuje aj jeho doručenie prostredníctvom elektronickej pošty na
-    mailovú adresu predsedu rady. Ak sa člen rady nevyjadrí v lehote,
-    platí, že nesúhlasí. Predseda rady potom oznámi výsledky hlasovania
+    mailovú adresu hlavného zakladateľa. Ak sa zakladateľ nevyjadrí v lehote,
+    platí, že nesúhlasí. Hlavný zakladateľ potom oznámi výsledky hlasovania
     emailom všetkým členom rady do 10 dní po uplynutí predmetnej lehoty
     na vyjadrenie.
 
-3.  Rada najmä
+3.  Orgnán zakladateľov najmä
 
     1.  schvaľuje zmenu stanov združenia,
 
@@ -292,38 +280,30 @@ Rada
 
     5.  určuje výšku členských poplatkov,
 
-    6.  rozhoduje o prijatí za člena združenia podľa čl. 3, bod 1.
-        ods. 3. a schvaľuje Etický kódex združenia,
+    6.  rozhoduje o prijatí za člena združenia podľa čl. 3, bod 1,
+        ods. 2,
 
     7.  rozhoduje o vylúčení člena zo združenia,
 
-    8.  rozhoduje o pozastavení členstva v zmysle čl. 3 ods. 5 týchto
-        stanov,
+    8.  menuje a odvoláva výkonného riaditeľa,
 
-    9.  menuje a odvoláva výkonného riaditeľa,
-
-    10. schvaľuje interné predpisy združenia, ktorých schválenie nie je
+    9.  schvaľuje interné predpisy združenia, ktorých schválenie nie je
         vyhradené do pôsobnosti valného zhromaždenia,
-
-    11. rozhoduje o vytvoriení podkategórií riadnych členov združenia.
-        Návrh na predloženie podkategórii riadnych členov zruženia
-        predkladá rade zakladateľ alebo jej člen.
 
 Výkonný riaditeľ
 ================
 
 1.  Výkonný riaditeľ je výkonným a štatutárnym orgánom združenia, ktorý
-    spravuje a riadi združenie a je oprávnený konať samostatne v mene
-    združenia navonok. Výkonný riaditeľ najmä zabezpečuje administratíve
+    spravuje a riadi združenie, najmä zabezpečuje administratíve
     a obslužné aktivity súvisiace s činnosťou združenia, pričom je
     oprávnený konať v mene združenia navonok.
 
 2.  Za výkon svojej činnosti zodpovedá výkonný riaditeľ valnému
-    zhromaždeniu a rade. O odmene výkonného riaditeľa rozhoduje rada.
+    zhromaždeniu a zakladateľom. O odmene výkonného riaditeľa rozhoduje rada.
 
 3.  Výkonný riaditeľ najmä:
 
-    1.  plní uznesenia valného zhromaždenia a pokyny rady, hospodári s
+    1.  plní uznesenia valného zhromaždenia a pokyny zakladateľov, hospodári s
         majetkom združenia,
 
     2.  zvoláva zasadnutia valného zhromaždenia,
@@ -334,17 +314,9 @@ Výkonný riaditeľ
         rozpočtu a správu o hospodárení združenia.
 
 4.  Výkonný riaditeľ môže zo svojej funkcie odstúpiť. Výkon funkcie sa
-    končí platným ustanovením nového výkonného riaditeľa radou, ktorej
-    zasadnutie zvolá najneskôr do 1 mesiaca predseda rady, odkedy mu
+    končí platným ustanovením nového výkonného riaditeľa zakladateľmi, ktorých
+    zasadnutie zvolá najneskôr do 1 mesiaca hlavný zakladateľ, odkedy mu
     bolo doručené oznámenie o odstúpení výkonného riaditeľa.
-
-Zakladatelia
-============
-
-1.  Občianske združenie má šiestich zakladateľov, ktorí sú zároveň
-    členovia prípravného výboru, ktorými sú:
-
-    1.  
 
 Revízor
 =======
@@ -361,7 +333,7 @@ Revízor
 
     1.  kontrolovať podľa predložených dokladov činnosť združenia,
 
-    2.  upozorňovať radu na zistené nedostatky a podávať návrhy na ich
+    2.  upozorňovať zakladateľov na zistené nedostatky a podávať návrhy na ich
         odstránenie,
 
     3.  v písomnej správe informovať raz ročne valné zhromaždenie o
@@ -372,32 +344,8 @@ Revízor
     porušenie právnych predpisov alebo stanov.
 
 5.  Revízor môže byť iba fyzická osoba, ktorá je spôsobilá na právne
-    úkony, je bezúhonná, nie je členom rady a nevykonáva funkciu
+    úkony, je bezúhonná, nie je zakladateľom a nevykonáva funkciu
     výkonného riaditeľa združenia.
-
-Podporovateľ
-============
-
-1.  Podporovateľom združenia môže byť akákoľvek fyzická osoba a/alebo
-    právnická osoba, ktorá písomne prejaví záujem podporovať aktivity
-    združenia a napĺňať ciele združenia uvedené v článku 2 týchto stanov
-    a je evidovaná v zozname podporovateľov vedenom združením na základe
-    rozhodnutia Rady.
-
-2.  Každý podporovateľ je povinný poskytnúť združeniu základné
-    informácie o sebe a informácie o profesionálnom záujme člena o
-    činnosť združenia vo forme krátkeho životopisu.
-
-3.  Každý podporovateľ súhlasí so zverejňovaním týchto informácií
-    združením a s uchovávaním a zverejňovaním týchto informácií vo forme
-    tlačovín, elektronických nosičov informácií, kódových zdrojov zápisu
-    informácií, ako aj zverejňovaním ich na web stránke združenia.
-
-4.  Rada môže rozhodnúť o výmaze podporovateľa zo zoznamu podporovateľov
-    združenia.
-
-5.  Rada môže rozhodnúť o zaradení podporovateľa do ňou vytvorených
-    pracovných, či poradenských skupín.
 
 Hospodárenie združenia
 ======================
@@ -407,15 +355,13 @@ Hospodárenie združenia
 
 2.  Majetok združenia tvoria najmä:
 
-    1.  príspevky riadnych členov,
+    1.  dary a dobrovoľné príspevky,
 
-    2.  dary a dobrovoľné príspevky,
+    2.  dotácie a granty od osôb z tuzemska i zahraničia,
 
-    3.  dotácie a granty od osôb z tuzemska i zahraničia,
+    3.  dotácie od štátnych a samosprávnych orgánov a organizácií,
 
-    4.  dotácie od štátnych a samosprávnych orgánov a organizácií,
-
-    5.  príjmy z činnosti pri napĺňaní cieľov združenia. ostatné príjmy
+    4.  príjmy z činnosti pri napĺňaní cieľov združenia. ostatné príjmy
 
 3.  Prostriedky združenia sa vedú na osobitnom účte.
 
