@@ -1,0 +1,20 @@
+from: markdown
+to: pdf
+input-file: stanovy.md
+output-file: stanovy.pdf
+
+metadata:
+  lang: sk
+  documentclass: article
+  papersize: a4
+  geometry: margin=1in
+
+variables:
+  header-includes:
+    - \let\oldtitle\title \renewcommand{\title}[1]{\oldtitle{#1\vspace{3em}}}
+    - \let\oldtableofcontents\tableofcontents \renewcommand{\tableofcontents}{\oldtableofcontents\newpage}
+    - \renewcommand{\thesubsection}{\Roman{subsection}}
+
+number-sections: true
+table-of-contents: true
+toc-depth: 1
