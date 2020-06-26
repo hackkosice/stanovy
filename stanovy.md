@@ -24,13 +24,12 @@ Názov a sídlo občianskeho združenia
 
 1.  Úplný názov občianskeho združenia znie: Hack Kosice
 
-2.  Sídlom združenia je: [TODO: sidlo]{style="background-color: GreenYellow"}
+2.  Sídlom združenia je: Zbrojničná 8, 040 01 Košice, Slovensko
 
 Cieľ a činnosť občianskeho združenia
 ====================================
 
-1.  Cieľom združenia je podpora mladých ľudí a študentov v oblastiach
-    technológií, programovania a podnikania.
+1. Cieľom združenia je podpora študentov a mladýchy ľudí a prepojenie Slovenskej kultúry so zahraničnou, predovšetkým           v oblastiach technológií, programovania a podnikania.
 
 2.  Občianske združenie za účelom dosiahnutia cieľov a naplnenia úloh
     vykonáva, resp. zabezpečuje najmä nasledovné činnosti:
@@ -46,17 +45,15 @@ Cieľ a činnosť občianskeho združenia
 
     4.  organizovanie a sprostredkovávanie dobrovoľníckej činnosti,
 
-    5.  zachovanie kultúrnych hodnôt,
-
-    6.  vyhľadávanie a získavanie finančných zdrojov na vykonávanie
+    5.  vyhľadávanie a získavanie finančných zdrojov na vykonávanie
         vyššie uvedených činností, napr. aj prostredníctvom spracovania
         projektov za účelom získania finančných prostriedkov z rôznych
         fondov,
 
-    7.  propagácia, publikačná činnosť a poskytovanie informácií o hore
+    6.  propagácia, publikačná činnosť a poskytovanie informácií o hore
         uvedených aktivitách,
 
-    8.  podpornú podnikateľskú činnosť, ktorej charakter slúži na
+    7.  podpornú podnikateľskú činnosť, ktorej charakter slúži na
         rozvíjanie cieľov združenia.
 
 Vznik a zánik členstva
@@ -77,10 +74,10 @@ Vznik a zánik členstva
 2.  O prijatí člena do združenia rozhoduje rada na základe prihlášky
     záujemca. Prihláška obsahuje jeho kontaktné údaje a krátke
     odôvodnenie prihlášky vo forme motivačného listu. Za prihlášku sa považuje
-     aj odoslanie faxom alebo prostredníctvom elektronickej pošty na spoločnú adresu zakladateľov.
+    aj odoslanie faxom alebo prostredníctvom elektronickej pošty na spoločnú adresu zakladateľov.
     Na prijatie do združenia nie je právny nárok.
     
-3.  [TODO: ako/kde sa zaznamenava/potvrdi clenstvo v OZ]
+3.  Členstvo potvrdzuje zakladateľ vo forme listu (prípadne elektronickej pošty) o členstve. List o členstve prestáva platiť pri zániku členstva. Zakladatelia vedú evidenciu o členoch združenia.
 
 Zánik členstva v občianskom združení
 ------------------------------------
