@@ -1,5 +1,5 @@
 from: markdown
-to: markdown_strict+yaml_metadata_block
+to: markdown_strict+yaml_metadata_block+fancy_lists
 input-file: stanovy.md
 output-file: stanovy.md
 
