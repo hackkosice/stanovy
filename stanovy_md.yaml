@@ -1,0 +1,7 @@
+from: markdown
+to: markdown_strict+yaml_metadata_block
+input-file: stanovy.md
+output-file: stanovy.md
+
+standalone: true
+wrap: auto
