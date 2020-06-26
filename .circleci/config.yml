@@ -4,6 +4,7 @@ jobs:
     docker:
       - image: pandoc/latex:2.9.2
     steps:
+      - checkout
       - run: pandoc -d stanovy_pdf
       - store_artifacts:
           path: stanovy.pdf
