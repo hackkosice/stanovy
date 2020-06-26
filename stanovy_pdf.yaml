@@ -15,6 +15,7 @@ variables:
     - \let\oldtableofcontents\tableofcontents \renewcommand{\tableofcontents}{\oldtableofcontents\newpage}
     - \renewcommand{\thesubsection}{\Roman{subsection}}
 
+strip-comments: true
 number-sections: true
 table-of-contents: true
 toc-depth: 1
