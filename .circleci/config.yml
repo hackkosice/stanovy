@@ -1,0 +1,9 @@
+version: 2.1
+jobs:
+  build:
+    docker:
+      - image: pandoc/latex:2.9.2
+    steps:
+      - run: pandoc -d stanovy_pdf
+      - store_artifacts:
+          path: stanovy.pdf
