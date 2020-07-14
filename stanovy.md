@@ -94,7 +94,6 @@ Vznik a zánik členstva
     združenia nie je právny nárok.
 
 3.  Členstvo potvrdzuje predstavenstvo vo forme listu o členstve,
-3.  Členstvo potvrdzuje predstavenstvo vo forme listu o členstve,
     prípadne prostredníctvom elektronickej pošty. List o členstve
     prestáva platiť pri zániku členstva. Predstavenstvo vedie evidenciu
     o členoch združenia.
@@ -104,7 +103,7 @@ Zánik členstva v občianskom združení
 
 1.  Členstvo v občianskom združení zaniká:
 
-    a.  úmrtím alebo jej vyhlásením za mŕtvu,
+    a.  úmrtím alebo jej vyhlásením za mŕtvu (v prípade fyzickej osoby),
 
     b.  zánikom právnickej osoby bez právneho nástupcu,
 
@@ -202,7 +201,7 @@ Valné zhromaždenie
 3.  Zvolanie valného zhromaždenia sa uskutoční prostredníctvom zaslania
     pozvánok riadnym členom spolu s programom rokovania minimálne 7 dní
     pred jeho konaním prostredníctvom elektronickej pošty na ich
-    emailovú adresu oznámenú výkonnému riaditeľovi, v prípade ak výkonný
+    emailovú adresu oznámenú výkonnému riaditeľovi; prípade ak výkonný
     riaditeľ nie je ustanovený, predsedovi predstavenstva.
 
 4.  Valné zhromaždenie je uznášaniaschopné, ak sú prítomní aspoň traja
@@ -217,8 +216,8 @@ Valné zhromaždenie
     účasť vykonáva osobne alebo prostredníctvom písomne povereného
     zástupcu. Na prijatie platného uznesenia valného zhromaždenia je
     potrebná nadpolovičná väčšina hlasov prítomných riadnych členov
-    združenia a zároveň za prijatie návrhu musia hlasovať najmenej dvaja
-    členovia predstavenstva, z ktorých jeden musí byť predsedom
+    združenia a zároveň za prijatie uznesenia musia hlasovať najmenej
+    dvaja členovia predstavenstva, z ktorých jeden musí byť predsedom
     predstavenstva.
 
 6.  Uznesenia valného zhromaždenia musia byť zapísané v zápisnici a
@@ -366,8 +365,8 @@ Zrušenie a zánik občianskeho združenia
     a.  dobrovoľným rozpustením alebo zlúčením s iným združením na
         základe rozhodnutia valného zhromaždenia,
 
-    b.  právoplatným rozhodnutím Ministerstva vnútra SR o rozpustení
-        združenia.
+    b.  právoplatným rozhodnutím Ministerstva vnútra Slovenskej
+        republiky o rozpustení združenia.
 
 2.  Pri zániku združenia s likvidáciou valné zhromaždenie menuje
     likvidátora. Každý riadny člen združenia má nárok na podiel na
