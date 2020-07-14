@@ -110,11 +110,20 @@ Zánik členstva v občianskom združení
     c.  vystúpením člena združenia (na základe písomného oznámenia člena
         o vystúpení, ktoré bude doručené výkonnému riaditeľovi),
 
-    d.  vylúčením člena združenia (na základe rozhodnutia valného
-        zhromaždenia) v prípade, že člen porušuje stanovy združenia
-        alebo iné vnútorné predpisy združenia, alebo iným spôsobom škodí
-        činnosti združenia; návrh na vylúčenie predkladá ktorýkoľvek
-        člen združenia.
+    d.  vylúčením člena združenia na základe rozhodnutia valného
+        zhromaždenia, pričom návrh na vylúčenie predkladá ktorýkoľvek
+        člen združenia, v nasledujúcich prípadoch:
+
+        a.  člen porušuje stanovy združenia alebo iné vnútorné predpisy
+            združenia,
+
+        b.  iným spôsobom škodí činnosti združenia,
+
+        c.  na základe nespokojnosti s činnosťou člena v rámci
+            združenia, najskôr však po 30 dňoch od písomného upozornenia
+            a upovedomenia člena s uvedeným dôvodom nespokojnosti. Za
+            písomné upozornenie sa považuje aj upozornenie elektronickou
+            poštou na poslednú známu adresu člena.
 
     e.  zánikom združenia.
 
