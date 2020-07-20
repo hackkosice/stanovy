@@ -1,7 +1,7 @@
 ---
 subtitle: Stanovy občianskeho združenia podľa zákona č. 83/1990 Zb. o
   združovaní občanov v znení neskorších predpisov.
-title: Stanovy občianskeho združenia Hack Kosice
+title: Stanovy občianskeho združenia Hack Slovakia
 ---
 
 Základné ustanovenia
@@ -10,7 +10,7 @@ Základné ustanovenia
 Charakter Občianskeho združenia
 -------------------------------
 
-1.  Občianske združenie Hack Kosice (ďalej len „občianske združenie"
+1.  Občianske združenie Hack Slovakia (ďalej len „občianske združenie"
     alebo „združenie") je dobrovoľným, mimovládnym, nepolitickým,
     neziskovým občianskym združením v zmysle zákona č. 83/1990 Zb. o
     združovaní občanov v jeho platnom znení.
@@ -23,7 +23,7 @@ Charakter Občianskeho združenia
 Názov a sídlo občianskeho združenia
 -----------------------------------
 
-1.  Úplný názov občianskeho združenia znie: Hack Kosice
+1.  Úplný názov občianskeho združenia znie: Hack Slovakia
 
 2.  Sídlom združenia je: Zbrojničná 8, 040 01 Košice, Slovensko
 
@@ -37,8 +37,7 @@ Cieľ a činnosť občianskeho združenia
 2.  Občianske združenie za účelom dosiahnutia cieľov a naplnenia úloh
     vykonáva, resp. zabezpečuje najmä nasledovné činnosti:
 
-    a.  Organizáciu každoročného podujatia Hack Kosice vo formáte
-        “hackathon”,
+    a.  Organizáciu každoročného podujatia vo formáte “hackathon”,
 
     b.  organizáciu a realizáciu vzdelávacích a kultúrno-spoločenských
         podujatí, seminárov a konferencií,
@@ -125,6 +124,10 @@ Zánik členstva v občianskom združení
             písomné upozornenie sa považuje aj upozornenie elektronickou
             poštou na poslednú známu adresu člena.
 
+        Tiež platí, že na vylúčenie každého zakladateľa z občianskeho
+        združenia na základe rozhodnutia valného zhromaždenia je
+        potrebný dodatočný súhlas toho ktorého zakladateľa.
+
     e.  zánikom združenia.
 
 Práva a povinnosti členov
@@ -191,10 +194,12 @@ Valné zhromaždenie
 
 2.  Valné zhromaždenie:
 
-    a.  schvaľuje zmenu stanov združenia,
+    a.  schvaľuje zmenu stanov združenia, pričom na zmenu stanov je
+        okrem prijatia platného uznesenia valným zhromaždením potrebný
+        aj súhlas každého zakladateľa, pokiaľ je členom predstavenstva,
 
     b.  rozhoduje o zrušení združenia a o osobe likvidátora a jeho
-        odmene.
+        odmene,
 
     c.  schvaľuje plán činností a rozpočet združenia,
 
@@ -202,10 +207,14 @@ Valné zhromaždenie
 
     e.  určuje výšku členských poplatkov,
 
-    f.  rozhoduje o vylúčení člena zo združenia,
+    f.  rozhoduje o vylúčení člena zo združenia, pričom na vylúčenie
+        každého zakladateľa zo združenia je potrebný dodatočný súhlas
+        toho ktorého zakladateľa.
 
     g.  volí a odvoláva členov predstavenstva a určuje predsedu
-        predstavenstva.
+        predstavenstva, pričom na odvolanie každého zakladateľa z
+        predstavenstva je potrebný dodatočný súhlas toho ktorého
+        zakladateľa.
 
 3.  Zvolanie valného zhromaždenia sa uskutoční prostredníctvom zaslania
     pozvánok riadnym členom spolu s programom rokovania minimálne 7 dní
@@ -215,9 +224,8 @@ Valné zhromaždenie
 
 4.  Valné zhromaždenie je uznášaniaschopné, ak sú prítomní aspoň traja
     riadni členovia a zároveň nadpolovičná väčšina členov
-    predstavenstva, z ktorých jeden musí byť predsedom predstavenstva.
-    Riadny člen sa môže Valného zhromaždenia zúčastniť aj
-    prostredníctvom obojstrannej videokonferencie. Za technické
+    predstavenstva. Riadny člen sa môže Valného zhromaždenia zúčastniť
+    aj prostredníctvom obojstrannej videokonferencie. Za technické
     zabezpečenie videokonferencie zodpovedá daný člen, ktorý sa touto
     formou valného zhromaždenia zúčastňuje, alebo ním poverený zástupca.
 
@@ -225,9 +233,8 @@ Valné zhromaždenie
     účasť vykonáva osobne alebo prostredníctvom písomne povereného
     zástupcu. Na prijatie platného uznesenia valného zhromaždenia je
     potrebná nadpolovičná väčšina hlasov prítomných riadnych členov
-    združenia a zároveň za prijatie uznesenia musia hlasovať najmenej
-    dvaja členovia predstavenstva, z ktorých jeden musí byť predsedom
-    predstavenstva.
+    združenia a zároveň za prijatie uznesenia musí hlasovať nadpolovičná
+    väčšina členov predstavenstva.
 
 6.  Uznesenia valného zhromaždenia musia byť zapísané v zápisnici a
     podpísané výkonným riaditeľom. Výkonný riaditeľ zabezpečí
@@ -250,8 +257,8 @@ Valné zhromaždenie
     lehoty na vyjadrenie. Na prijatie platného per rollam
     uznesenia/rozhodnutia valného zhromaždenia je potrebná nadpolovičná
     väčšina hlasov všetkých riadnych členov združenia a zároveň za
-    prijatie návrhu musia hlasovať najmenej dvaja členovia
-    predstavenstva, z ktorých jeden musí byť predsedom predstavenstva.
+    prijatie uznesenia musí hlasovať nadpolovičná väčšina členov
+    predstavenstva.
 
 8.  Výkonný riaditeľ zvolá mimoriadne valné zhromaždenie vždy, ak ho o
     to požiada nadpolovičná väčšina členov predstavenstva. V prípade, ak
@@ -265,7 +272,11 @@ Predstavenstvo
 1.  Predstavenstvo je riadiacim a štatutárnym orgánom združenia.
 
 2.  Predstavenstvo má najmenej troch a najviac piatich členov, ktorých
-    volí a odvoláva valné zhromaždenie združenia.
+    volí a odvoláva valné zhromaždenie združenia, ako aj určuje predsedu
+    predstavenstva. Na odvolanie každého zakladateľa z predstavenstva je
+    dodatočne potrebný súhlas toho ktorého zakladateľa, a to platí aj v
+    prípade vylúčenia člena združenia podľa čl. 4, bod 2, ods. 1,
+    časť d.
 
 3.  Prvými členmi predstavenstva sú všetci traja zakladatelia združenia,
     pričom hlavný zakladateľ (Founder) je predsedom predstavenstva.
@@ -275,23 +286,21 @@ Predstavenstvo
     aspoň dvoch členov predstavenstva.
 
 5.  Na prijatie platného rozhodnutia predstavenstva je potrebná
-    nadpolovičná väčšina hlasov členov predstavenstva, pričom zároveň za
-    prijatie rozhodnutia musí hlasovať predseda predstavenstva.
-    Predstavenstvo môže prijímať rozhodnutia na základe per rollam
-    hlasovania. Návrh rozhodnutia môže písomne predložiť ktorýkoľvek
-    riadny člen na vyjadrenie súhlasu/nesúhlasu, v ktorej ho riadni
-    členovia zasielajú na spoločnú adresu členov predstavenstva. Lehota
-    na vyjadrenie je 3 pracovné dni odo dňa odoslania návrhu rozhodnutia
-    na vyjadrenie. Za písomné predloženie návrhu rozhodnutia na
-    vyjadrenie sa považuje aj odoslanie návrhu rozhodnutia
-    prostredníctvom elektronickej pošty na poslednú známu adresu
-    predsedu predstavenstva. Za včasné doručenie vyjadrenia sa považuje
-    aj jeho doručenie prostredníctvom elektronickej pošty na mailovú
-    adresu predsedu predstavenstva. Ak sa člen predstavenstva nevyjadrí
-    v lehote, platí, že s návrhom nesúhlasí. Predseda predstavenstva
-    potom oznámi výsledky hlasovania emailom všetkým členom
-    predstavenstva do 3 pracovných dní po uplynutí predmetnej lehoty na
-    vyjadrenie.
+    nadpolovičná väčšina hlasov členov predstavenstva. Predstavenstvo
+    môže prijímať rozhodnutia na základe per rollam hlasovania. Návrh
+    rozhodnutia môže písomne predložiť ktorýkoľvek riadny člen na
+    vyjadrenie súhlasu/nesúhlasu, v ktorej ho riadni členovia zasielajú
+    na spoločnú adresu členov predstavenstva. Lehota na vyjadrenie je 3
+    pracovné dni odo dňa odoslania návrhu rozhodnutia na vyjadrenie. Za
+    písomné predloženie návrhu rozhodnutia na vyjadrenie sa považuje aj
+    odoslanie návrhu rozhodnutia prostredníctvom elektronickej pošty na
+    poslednú známu adresu predsedu predstavenstva. Za včasné doručenie
+    vyjadrenia sa považuje aj jeho doručenie prostredníctvom
+    elektronickej pošty na mailovú adresu predsedu predstavenstva. Ak sa
+    člen predstavenstva nevyjadrí v lehote, platí, že s návrhom
+    nesúhlasí. Predseda predstavenstva potom oznámi výsledky hlasovania
+    emailom všetkým členom predstavenstva do 3 pracovných dní po
+    uplynutí predmetnej lehoty na vyjadrenie.
 
 6.  Predstavenstvo najmä:
 
