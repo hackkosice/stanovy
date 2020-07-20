@@ -70,11 +70,11 @@ Zakladatelia
 
     c.  Ádám Urbán (Co-Founder)
 
-Vznik a zánik členstva
-======================
-
 Členstvo v občianskom združení
-------------------------------
+==============================
+
+Vznik členstva
+--------------
 
 1.  Členom združenia sa môžu stať:
 
@@ -97,8 +97,8 @@ Vznik a zánik členstva
     prestáva platiť pri zániku členstva. Predstavenstvo vedie evidenciu
     o členoch združenia.
 
-Zánik členstva v občianskom združení
-------------------------------------
+Zánik členstva
+--------------
 
 1.  Členstvo v občianskom združení zaniká:
 
@@ -131,7 +131,7 @@ Zánik členstva v občianskom združení
     e.  zánikom združenia.
 
 Práva a povinnosti členov
-=========================
+-------------------------
 
 1.  Združenie má tieto kategórie členov:
 
