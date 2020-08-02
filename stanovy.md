@@ -1,7 +1,7 @@
 ---
 subtitle: Stanovy občianskeho združenia podľa zákona č. 83/1990 Zb. o
   združovaní občanov v znení neskorších predpisov.
-title: Stanovy Hack Kosice
+title: Stanovy občianskeho združenia Hack Slovakia
 ---
 
 Základné ustanovenia
@@ -10,7 +10,7 @@ Základné ustanovenia
 Charakter Občianskeho združenia
 -------------------------------
 
-1.  Občianske združenie Hack Kosice (ďalej len „občianske združenie"
+1.  Občianske združenie Hack Slovakia (ďalej len „občianske združenie"
     alebo „združenie") je dobrovoľným, mimovládnym, nepolitickým,
     neziskovým občianskym združením v zmysle zákona č. 83/1990 Zb. o
     združovaní občanov v jeho platnom znení.
@@ -23,22 +23,21 @@ Charakter Občianskeho združenia
 Názov a sídlo občianskeho združenia
 -----------------------------------
 
-1.  Úplný názov občianskeho združenia znie: Hack Kosice
+1.  Úplný názov občianskeho združenia znie: Hack Slovakia
 
 2.  Sídlom združenia je: Zbrojničná 8, 040 01 Košice, Slovensko
 
 Cieľ a činnosť občianskeho združenia
 ====================================
 
-1.  Cieľom združenia je podpora študentov a mladýchy ľudí a prepojenie
+1.  Cieľom združenia je podpora študentov a mladých ľudí a prepojenie
     Slovenskej kultúry so zahraničnou, predovšetkým v oblastiach
     technológií, programovania a podnikania.
 
 2.  Občianske združenie za účelom dosiahnutia cieľov a naplnenia úloh
     vykonáva, resp. zabezpečuje najmä nasledovné činnosti:
 
-    a.  Organizáciu každoročného podujatia Hack Kosice vo formáte
-        “hackathon”,
+    a.  Organizáciu každoročného podujatia vo formáte “hackathon”,
 
     b.  organizáciu a realizáciu vzdelávacích a kultúrno-spoločenských
         podujatí, seminárov a konferencií,
@@ -59,11 +58,23 @@ Cieľ a činnosť občianskeho združenia
     g.  podpornú podnikateľskú činnosť, ktorej charakter slúži na
         rozvíjanie cieľov združenia.
 
-Vznik a zánik členstva
-======================
+Zakladatelia
+============
+
+1.  Občianske združenie má troch zakladateľov, ktorí sú zároveň členmi
+    prípravného výboru:
+
+    a.  Juraj Mičko - hlavný zakladateľ (Founder)
+
+    b.  Pavol Drotár (Co-Founder)
+
+    c.  Ádám Urbán (Co-Founder)
 
 Členstvo v občianskom združení
-------------------------------
+==============================
+
+Vznik členstva
+--------------
 
 1.  Členom združenia sa môžu stať:
 
@@ -74,49 +85,64 @@ Vznik a zánik členstva
     ak súhlasia so stanovami a vnútornými predpismi občianskeho
     združenia.
 
-2.  O prijatí člena do združenia rozhodujú zakladatelia na základe
-    prihlášky záujemca. Prihláška obsahuje jeho kontaktné údaje a krátke
+2.  O prijatí člena do združenia rozhoduje predstavenstvo na základe
+    prihlášky záujemcu. Prihláška obsahuje jeho kontaktné údaje a krátke
     odôvodnenie prihlášky vo forme motivačného listu. Za prihlášku sa
     považuje aj odoslanie prostredníctvom elektronickej pošty na
-    spoločnú adresu zakladateľov. Na prijatie do združenia nie je právny
-    nárok.
+    spoločnú adresu členov predstavenstva. Na prijatie za člena
+    združenia nie je právny nárok.
 
-3.  Členstvo potvrdzuje zakladateľ vo forme listu o členstve, prípadne
-    prostredníctvom elektronickej pošty. List o členstve prestáva platiť
-    pri zániku členstva. Zakladatelia vedú evidenciu o členoch
-    združenia.
+3.  Členstvo potvrdzuje predstavenstvo vo forme listu o členstve,
+    prípadne prostredníctvom elektronickej pošty. List o členstve
+    prestáva platiť pri zániku členstva. Predstavenstvo vedie evidenciu
+    o členoch združenia.
 
-Zánik členstva v občianskom združení
-------------------------------------
+Zánik členstva
+--------------
 
 1.  Členstvo v občianskom združení zaniká:
 
-    a.  úmrtím alebo jej vyhlásením za mŕtvu,
+    a.  úmrtím alebo jej vyhlásením za mŕtvu (v prípade fyzickej osoby),
 
     b.  zánikom právnickej osoby bez právneho nástupcu,
 
     c.  vystúpením člena združenia (na základe písomného oznámenia člena
         o vystúpení, ktoré bude doručené výkonnému riaditeľovi),
 
-    d.  vylúčením člena združenia (na základe rozhodnutia rady) v
-        prípade, že člen porušuje stanovy združenia alebo iné vnútorné
-        predpisy združenia, alebo iným spôsobom škodí činnosti
-        združenia; návrh na vylúčenie predkladá ktorýkoľvek člen
-        združenia.
+    d.  vylúčením člena združenia na základe rozhodnutia valného
+        zhromaždenia, pričom návrh na vylúčenie predkladá ktorýkoľvek
+        člen združenia, v nasledujúcich prípadoch:
+
+        a.  člen porušuje stanovy združenia alebo iné vnútorné predpisy
+            združenia,
+
+        b.  iným spôsobom škodí činnosti združenia,
+
+        c.  na základe nespokojnosti s činnosťou člena v rámci
+            združenia, najskôr však po 30 dňoch od písomného upozornenia
+            a upovedomenia člena s uvedeným dôvodom nespokojnosti. Za
+            písomné upozornenie sa považuje aj upozornenie elektronickou
+            poštou na poslednú známu adresu člena.
+
+        Tiež platí, že na vylúčenie každého zakladateľa z občianskeho
+        združenia na základe rozhodnutia valného zhromaždenia je
+        potrebný dodatočný súhlas toho ktorého zakladateľa.
 
     e.  zánikom združenia.
 
 Práva a povinnosti členov
-=========================
+-------------------------
 
 1.  Združenie má tieto kategórie členov:
 
-    a.  zakladateľ
+    a.  člen predstavenstva (vrátane predsedu predstavenstva)
 
     b.  riadny člen
 
-2.  Zakladateľ má všetky práva a povinnosti riadneho člena. Ak sa v
-    týchto stanovách spomína riadny člen, myslí sa tým aj zakladateľ.
+2.  Členovia predstavenstva majú okrem práv a povinností členov
+    predstavenstva aj všetky práva a povinnosti riadneho člena. Ak sa v
+    týchto stanovách spomína riadny člen, myslí sa tým aj každý člen
+    predstavenstva.
 
 3.  Riadny člen má právo:
 
@@ -151,7 +177,7 @@ Orgány občianskeho združenia
 
     a.  Valné zhromaždenie
 
-    b.  Zakladatelia
+    b.  Predstavenstvo
 
     c.  Výkonný riaditeľ
 
@@ -161,40 +187,54 @@ Valné zhromaždenie
 1.  Valné zhromaždenie je najvyšším orgánom združenia a je tvorené
     všetkými riadnymi členmi združenia. Zasadnutie valného zhromaždenia
     zvoláva a vedie výkonný riaditeľ podľa potreby, najmenej však raz
-    ročne.
+    ročne. V prípade, ak výkonný riaditeľ nie je zvolený, alebo mu
+    uplynulo funkčné obdobie, zastupuje ho pri výkone zvolania a vedenia
+    valného zhromaždenia predseda predstavenstva, alebo ním poverený
+    člen predstavenstva.
 
 2.  Valné zhromaždenie:
 
-    a.  určuje plány, projekty a ciele hospodárenia združenia a za týmto
-        účelom ukladá pokyny výkonnému riaditeľovi,
+    a.  schvaľuje zmenu stanov združenia, pričom na zmenu stanov je
+        okrem prijatia platného uznesenia valným zhromaždením potrebný
+        aj súhlas každého zakladateľa, pokiaľ je členom predstavenstva,
 
-    b.  schvaľuje plán činností a rozpočet združenia,
+    b.  rozhoduje o zrušení združenia a o osobe likvidátora a jeho
+        odmene,
 
-    c.  schvaľuje výročnú správu o hospodárení,
+    c.  schvaľuje plán činností a rozpočet združenia,
 
-        <!-- TODO -->
+    d.  schvaľuje výročnú správu o hospodárení,
 
-    d.  určuje výšku členských poplatkov,
+    e.  určuje výšku členských poplatkov,
 
-    e.  rozhoduje o vylúčení člena zo združenia,
+    f.  rozhoduje o vylúčení člena zo združenia, pričom na vylúčenie
+        každého zakladateľa zo združenia je potrebný dodatočný súhlas
+        toho ktorého zakladateľa.
+
+    g.  volí a odvoláva členov predstavenstva a určuje predsedu
+        predstavenstva, pričom na odvolanie každého zakladateľa z
+        predstavenstva je potrebný dodatočný súhlas toho ktorého
+        zakladateľa.
 
 3.  Zvolanie valného zhromaždenia sa uskutoční prostredníctvom zaslania
     pozvánok riadnym členom spolu s programom rokovania minimálne 7 dní
     pred jeho konaním prostredníctvom elektronickej pošty na ich
-    emailovú adresu oznámenú výkonnému riaditeľovi.
+    emailovú adresu oznámenú výkonnému riaditeľovi; prípade ak výkonný
+    riaditeľ nie je ustanovený, predsedovi predstavenstva.
 
 4.  Valné zhromaždenie je uznášaniaschopné, ak sú prítomní aspoň traja
-    riadni členovia, z toho nadpolovičná väčšina zakladateľov. Riadny
-    člen sa môže Valného zhromaždenia zúčastniť aj prostredníctvom
-    obojstrannej videokonferencie. Za technické zabezpečenie
-    videokonferencie zodpovedá daný člen, ktorý sa touto formou valného
-    zhromaždenia zúčastňuje, alebo ním poverený zástupca.
+    riadni členovia a zároveň nadpolovičná väčšina členov
+    predstavenstva. Riadny člen sa môže Valného zhromaždenia zúčastniť
+    aj prostredníctvom obojstrannej videokonferencie. Za technické
+    zabezpečenie videokonferencie zodpovedá daný člen, ktorý sa touto
+    formou valného zhromaždenia zúčastňuje, alebo ním poverený zástupca.
 
 5.  Každý riadny člen disponuje na valnom zhromaždení jedným hlasom a
     účasť vykonáva osobne alebo prostredníctvom písomne povereného
     zástupcu. Na prijatie platného uznesenia valného zhromaždenia je
     potrebná nadpolovičná väčšina hlasov prítomných riadnych členov
-    združenia.
+    združenia a zároveň za prijatie uznesenia musí hlasovať nadpolovičná
+    väčšina členov predstavenstva.
 
 6.  Uznesenia valného zhromaždenia musia byť zapísané v zápisnici a
     podpísané výkonným riaditeľom. Výkonný riaditeľ zabezpečí
@@ -205,95 +245,96 @@ Valné zhromaždenie
     zhromaždenia na základe per rollam uznesenia/rozhodnutia. Návrh
     uznesenia/rozhodnutia valného zhromaždenia predkladá písomne členom
     združenia na vyjadrenie súhlasu/nesúhlasu výkonný riaditeľ. Lehota
-    na vyjadrenie riadnych členov je 7 dní odo dňa odoslania návrhu, v
-    ktorej členovia združenia zasielajú vyjadrenie na adresu sídla
-    združenia. Za písomné predloženie návrhu uznesenia/rozhodnutia ako
-    aj za písomné vyjadrenie sa považuje aj odoslanie návrhu a
+    na vyjadrenie riadnych členov je 3 pracovné dni odo dňa odoslania
+    návrhu, v ktorej členovia združenia zasielajú vyjadrenie na adresu
+    sídla združenia. Za písomné predloženie návrhu uznesenia/rozhodnutia
+    ako aj za písomné vyjadrenie sa považuje aj odoslanie návrhu a
     vyjadrenia prostredníctvom elektronickej pošty na poslednú známu
     emailovú adresu členov združenia a na emailovú adresu výkonného
-    riaditeľa. Ak sa člen nevyjadrí v lehote, platí, že nesúhlasí.
-    Výkonný riaditeľ potom oznámi výsledky hlasovania emailom všetkým
-    riadnym členom združenia do 7 dní po uplynutí predmetnej lehoty na
-    vyjadrenie. Na prijatie platného per rollam uznesenia/rozhodnutia
-    valného zhromaždenia je potrebná nadpolovičná väčšina hlasov
-    všetkých riadnych členov združenia.
+    riaditeľa. Ak sa člen nevyjadrí v lehote, platí, že s návrhom
+    nesúhlasí. Výkonný riaditeľ potom oznámi výsledky hlasovania emailom
+    všetkým riadnym členom združenia do 3 dní po uplynutí predmetnej
+    lehoty na vyjadrenie. Na prijatie platného per rollam
+    uznesenia/rozhodnutia valného zhromaždenia je potrebná nadpolovičná
+    väčšina hlasov všetkých riadnych členov združenia a zároveň za
+    prijatie uznesenia musí hlasovať nadpolovičná väčšina členov
+    predstavenstva.
 
 8.  Výkonný riaditeľ zvolá mimoriadne valné zhromaždenie vždy, ak ho o
-    to požiada nadpolovičná väčšina zakladateľov. V prípade, ak výkonný
-    riaditeľ nie je zvolený, alebo mu uplynulo funkčné obdobie,
+    to požiada nadpolovičná väčšina členov predstavenstva. V prípade, ak
+    výkonný riaditeľ nie je zvolený, alebo mu uplynulo funkčné obdobie,
     zastupuje ho pri výkone zvolania a vedenia valného zhromaždenia
-    jeden zo zakladateľov, ktorý bol poverený aspoň dvomi zakladateľmi.
+    predseda predstavenstva, alebo ním poverený člen predstavenstva.
 
-Zakladatelia
-------------
+Predstavenstvo
+--------------
 
-<!-- TODO: je dobre zlucit organ zakladatelov a valne zhromazdenie? -->
+1.  Predstavenstvo je riadiacim a štatutárnym orgánom združenia.
 
-1.  Občianske združenie má troch zakladateľov, ktorí sú zároveň členovia
-    prípravného výboru, ktorými sú:
+2.  Predstavenstvo má najmenej troch a najviac piatich členov, ktorých
+    volí a odvoláva valné zhromaždenie združenia, ako aj určuje predsedu
+    predstavenstva. Na odvolanie každého zakladateľa z predstavenstva je
+    dodatočne potrebný súhlas toho ktorého zakladateľa, a to platí aj v
+    prípade vylúčenia člena združenia podľa čl. 4, bod 2, ods. 1,
+    časť d.
 
-    a.  Juraj Mičko (Founder)
+3.  Prvými členmi predstavenstva sú všetci traja zakladatelia združenia,
+    pričom hlavný zakladateľ (Founder) je predsedom predstavenstva.
 
-    b.  Pavol Drotár (Co-Founder)
+4.  V mene združenia môžu konať všetci členovia predstavenstva, pričom
+    právne úkony v mene združenia sa uskutočňujú súhlasným prejavom vôle
+    aspoň dvoch členov predstavenstva.
 
-    c.  Ádám Urbán (Co-Founder)
+5.  Na prijatie platného rozhodnutia predstavenstva je potrebná
+    nadpolovičná väčšina hlasov členov predstavenstva. Predstavenstvo
+    môže prijímať rozhodnutia na základe per rollam hlasovania. Návrh
+    rozhodnutia môže písomne predložiť ktorýkoľvek riadny člen na
+    vyjadrenie súhlasu/nesúhlasu, v ktorej ho riadni členovia zasielajú
+    na spoločnú adresu členov predstavenstva. Lehota na vyjadrenie je 3
+    pracovné dni odo dňa odoslania návrhu rozhodnutia na vyjadrenie. Za
+    písomné predloženie návrhu rozhodnutia na vyjadrenie sa považuje aj
+    odoslanie návrhu rozhodnutia prostredníctvom elektronickej pošty na
+    poslednú známu adresu predsedu predstavenstva. Za včasné doručenie
+    vyjadrenia sa považuje aj jeho doručenie prostredníctvom
+    elektronickej pošty na mailovú adresu predsedu predstavenstva. Ak sa
+    člen predstavenstva nevyjadrí v lehote, platí, že s návrhom
+    nesúhlasí. Predseda predstavenstva potom oznámi výsledky hlasovania
+    emailom všetkým členom predstavenstva do 3 pracovných dní po
+    uplynutí predmetnej lehoty na vyjadrenie.
 
-    Prvý zo zakladateľov je hlavný zakladateľ. Každý zo zakladateľov je
-    oprávnený konať v mene združenia navonok samostatne a vykonáva
-    pôsobnosť štatutárneho orgánu vo vzťahu k tretím osobám.
+6.  Predstavenstvo najmä:
 
-2.  Na prijatie platného rozhodnutia zakladateľov je potrebná
-    nadpolovičná väčšina hlasov zakladateľov. Zakladatelia môžu prijímať
-    rozhodnutia na základe per rollam rozhodnutia. Návrh rozhodnutia
-    môže písomne predložiť ktorýkoľvek riadny člen na vyjadrenie
-    súhlasu/nesúhlasu, v ktorej ho riadni členovia zasielajú na spoločnú
-    adresu zakladateľov. Lehota na vyjadrenie je 7 dní odo dňa odoslania
-    návrhu rozhodnutia na vyjadrenie. Za písomné predloženie návrhu
-    rozhodnutia na vyjadrenie sa považuje aj odoslanie návrhu
-    rozhodnutia prostredníctvom elektronickej pošty na poslednú známu
-    adresu hlavného zakladateľa. Za včasné doručenie vyjadrenia sa
-    považuje aj jeho doručenie prostredníctvom elektronickej pošty na
-    mailovú adresu zakladateľov. Ak sa zakladateľ nevyjadrí v lehote,
-    platí, že nesúhlasí. Hlavný zakladateľ potom oznámi výsledky
-    hlasovania emailom všetkým členom rady do 7 dní po uplynutí
-    predmetnej lehoty na vyjadrenie.
+    a.  určuje strategické plány, projekty a ciele hospodárenia
+        združenia a za týmto účelom ukladá pokyny výkonnému riaditeľovi,
 
-3.  Orgán zakladateľov najmä:
-
-    a.  schvaľuje zmenu stanov združenia,
-
-    b.  rozhoduje o strategickom smerovaní a prioritách združenia,
-
-    c.  rozhoduje o prijatí za člena združenia podľa čl. 3, bod 1, ods.
+    b.  rozhoduje o prijatí za člena združenia podľa čl. 4, bod 1, ods.
         2,
 
-    d.  menuje a odvoláva výkonného riaditeľa,
+    c.  menuje, odvoláva a udeľuje splnomocnenie výkonnému riaditeľovi,
 
-    e.  schvaľuje interné predpisy združenia, ktorých schválenie nie je
-        vyhradené do pôsobnosti valného zhromaždenia,
+    d.  schvaľuje interné predpisy združenia,
 
-    f.  rozhoduje o zrušení združenia a o osobe likvidátora a jeho
-        odmene.
-
-    g.  rozhoduje o ďalších otázkach súvisiacich s činnosťou združenia,
+    e.  rozhoduje o ďalších otázkach súvisiacich s činnosťou združenia,
         pokiaľ oprávnenie rozhodovať o tejto otázke nepatrí inému orgánu
         združenia,
 
 Výkonný riaditeľ
 ----------------
 
-1.  Výkonný riaditeľ je výkonným a štatutárnym orgánom združenia, ktorý
-    spravuje a riadi združenie, najmä zabezpečuje administratíve a
-    obslužné aktivity súvisiace s činnosťou združenia, pričom je
-    oprávnený konať v mene združenia navonok samostatne.
+1.  Výkonný riaditeľ je výkonným orgánom združenia, ktorý v súlade s
+    pokynmi predstavenstva a valného zhromaždenia spravuje združenie,
+    najmä zabezpečuje administratíve a obslužné aktivity súvisiace s
+    činnosťou združenia, pričom je oprávnený konať v mene združenia
+    navonok samostatne v rozsahu udelenom zo strany predstavenstva
+    združenia.
 
 2.  Za výkon svojej činnosti zodpovedá výkonný riaditeľ valnému
-    zhromaždeniu a zakladateľom.
+    zhromaždeniu a predstavenstvu.
 
 3.  Výkonný riaditeľ najmä:
 
-    a.  plní pokyny valného zhromaždenia a uznesenia valného
-        zhromaždenia a zakladateľov, hospodári s majetkom združenia,
+    a.  plní pokyny valného zhromaždenia a rozhodnutia predstavenstva,
+        hospodári s majetkom združenia,
 
     b.  zvoláva zasadnutia valného zhromaždenia,
 
@@ -303,9 +344,18 @@ Výkonný riaditeľ
         rozpočtu a správu o hospodárení združenia.
 
 4.  Výkonný riaditeľ môže zo svojej funkcie odstúpiť. Výkon funkcie sa
-    končí platným ustanovením nového výkonného riaditeľa zakladateľmi,
-    ktorých zasadnutie zvolá najneskôr do 30 dní hlavný zakladateľ,
-    odkedy mu bolo doručené oznámenie o odstúpení výkonného riaditeľa.
+    končí platným ustanovením nového výkonného riaditeľa
+    predstavenstvom, ktorých zasadnutie zvolá najneskôr do 30 dní
+    predseda predstavenstva, odkedy mu bolo doručené oznámenie o
+    odstúpení výkonného riaditeľa.
+
+5.  Predstavenstvo je oprávnené výkonného riaditeľa kedykoľvek odvolať a
+    to aj bez uvedenia dôvodu. V prípade odvolania výkonného riaditeľa
+    končí jeho funkcia okamihom, kedy sa o prijatí rozhodnutia
+    predstavenstva a svojom odvolaní dozvedel. Až do vymenovania nového
+    výkonného riaditeľa je predseda predstavenstva oprávnený dočasne
+    poveriť vykonávaním funkcie výkonného riaditeľa niektorého z
+    riadnych členov združenia.
 
 Hospodárenie združenia
 ======================
@@ -333,8 +383,8 @@ Zrušenie a zánik občianskeho združenia
     a.  dobrovoľným rozpustením alebo zlúčením s iným združením na
         základe rozhodnutia valného zhromaždenia,
 
-    b.  právoplatným rozhodnutím Ministerstva vnútra SR o rozpustení
-        združenia.
+    b.  právoplatným rozhodnutím Ministerstva vnútra Slovenskej
+        republiky o rozpustení združenia.
 
 2.  Pri zániku združenia s likvidáciou valné zhromaždenie menuje
     likvidátora. Každý riadny člen združenia má nárok na podiel na
