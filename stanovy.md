@@ -64,11 +64,11 @@ Zakladatelia
 1.  Občianske združenie má troch zakladateľov, ktorí sú zároveň členmi
     prípravného výboru:
 
-    a.  Juraj Mičko - hlavný zakladateľ (Founder)
+    a.  Juraj Mičko - hlavný zakladateľ
 
-    b.  Pavol Drotár (Co-Founder)
+    b.  Pavol Drotár
 
-    c.  Ádám Urbán (Co-Founder)
+    c.  Ádám Urbán
 
 Členstvo v občianskom združení
 ==============================
@@ -279,7 +279,7 @@ Predstavenstvo
     časť d.
 
 3.  Prvými členmi predstavenstva sú všetci traja zakladatelia združenia,
-    pričom hlavný zakladateľ (Founder) je predsedom predstavenstva.
+    pričom hlavný zakladateľ je predsedom predstavenstva.
 
 4.  V mene združenia môžu konať všetci členovia predstavenstva, pričom
     právne úkony v mene združenia sa uskutočňujú súhlasným prejavom vôle
