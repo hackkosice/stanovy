@@ -31,13 +31,13 @@ Cieľ a činnosť občianskeho združenia
 ====================================
 
 1.  Cieľom združenia je podpora študentov a mladých ľudí a prepojenie
-    Slovenskej kultúry so zahraničnou, predovšetkým v oblastiach
-    technológií, programovania a podnikania.
+    tuzemských komunít študentov a mladých ľudí s obdobnými komunitami v zahraničí, predovšetkým v oblastiach
+    technológií, programovania a podnikania. Pri plnení tohto cieľu kladie občianske združenie dôraz na región mesta Košice.  
 
 2.  Občianske združenie za účelom dosiahnutia cieľov a naplnenia úloh
     vykonáva, resp. zabezpečuje najmä nasledovné činnosti:
 
-    a.  Organizáciu každoročného podujatia vo formáte “hackathon”,
+    a.  Organizáciu každoročného podujatia vo formáte “hackathon” v Košiciach,
 
     b.  organizáciu a realizáciu vzdelávacích a kultúrno-spoločenských
         podujatí, seminárov a konferencií,
