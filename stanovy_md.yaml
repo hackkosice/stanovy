@@ -5,3 +5,4 @@ output-file: stanovy.md
 
 standalone: true
 wrap: auto
+markdown-headings: setext
