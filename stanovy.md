@@ -150,7 +150,8 @@ Práva a povinnosti členov
 
     a.  zúčastňovať sa na valnom zhromaždení a hlasovať na ňom,
 
-    b.  zúčastňovať sa na činnosti občianskeho združenia,
+    b.  zúčastňovať sa na činnosti občianskeho združenia podla
+        pridelenia k projektom riaditelom občianskeho združenia
 
     c.  uchádzať sa o pozíciu riaditeľa,
 
@@ -335,14 +336,27 @@ Riaditeľ
 3.  Riaditeľ najmä:
 
     a.  plní pokyny valného zhromaždenia a rozhodnutia predstavenstva,
-        hospodári s majetkom združenia,
 
     b.  zvoláva zasadnutia valného zhromaždenia,
 
     c.  zabezpečuje vedenie účtovníctva,
 
     d.  vypracúva plán činnosti združenia, správu o činnosti, návrh
-        rozpočtu a správu o hospodárení združenia.
+        rozpočtu a správu o hospodárení združenia,
+
+    e.  iniciuje a riadi projekty v rámci občianskeho združenia,
+
+    f.  manažuje ľudské zdroje v ekonomickej aj sociálnej oblasti
+        (utváranie pracovnej klímy) a schvaľuje priradenie členov a
+        dobrovoľníkov k projektom občianskeho združenia,
+
+    g.  spravuje a hospodári s majetkom a vedie inventár združenia
+
+    h.  zodpovedá za riadne fungovanie bežných administratívnych a
+        technických činností v rámci občianskeho združenia,
+
+    i.  zodpovedá za zmluvné vzťahy občianskeho združenia a plnenie
+        povinností občianskeho združenia vo vzťahu k externým subjektom,
 
 4.  Riaditeľ môže zo svojej funkcie odstúpiť. Výkon funkcie sa končí
     platným ustanovením nového riaditeľa predstavenstvom, ktorých
