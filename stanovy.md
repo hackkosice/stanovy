@@ -2,6 +2,7 @@
 subtitle: Stanovy občianskeho združenia podľa zákona č. 83/1990 Zb. o
   združovaní občanov v znení neskorších predpisov.
 title: Stanovy občianskeho združenia Hack Slovakia
+include-before: _Schválené valným zhromaždením dňa 20.12.2023._ \vspace{2em}
 ---
 
 Základné ustanovenia
