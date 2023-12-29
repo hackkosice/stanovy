@@ -2,9 +2,17 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: bred1810/pandoc
+      - image: hackkosice/pandoc:3.1
     steps:
       - checkout
-      - run: pandoc -d stanovy_pdf
+      - run:
+          name: Fail if not formatted
+          command: |
+            pandoc -d stanovy_md
+            git diff --exit-code
+      - run:
+          name: Build PDF
+          command: |
+            pandoc -d stanovy_pdf
       - store_artifacts:
           path: stanovy.pdf
