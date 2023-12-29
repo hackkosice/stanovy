@@ -9,8 +9,16 @@ metadata:
   papersize: a4
   geometry: margin=1in
 
+pdf-engine: pdflatex
+
 variables:
   header-includes:
+    # PDF/A-2b compliance, explained in https://www.slovensko.sk/sk/faq/faq-podania/
+    - |
+      \pdfminorversion=7
+      \usepackage{colorprofiles}
+      \usepackage[a-2b,mathxmp]{pdfx}
+      \usepackage[pdfa]{hyperref}
     - \let\oldtitle\title \renewcommand{\title}[1]{\oldtitle{#1\vspace{3em}}}
     - \let\oldtableofcontents\tableofcontents \renewcommand{\tableofcontents}{\oldtableofcontents\newpage}
     - \renewcommand{\thesubsection}{\Roman{subsection}}
